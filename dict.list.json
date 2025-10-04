@@ -1,5 +1,6 @@
 {
   "English": "https://github.com/sieugene/yomikomi-dictionaries/blob/main/combined_terms_JMdict_english.sqlite",
+  "English-kanjidic": "https://github.com/sieugene/yomikomi-dictionaries/blob/main/kanjidic_en_kanji_bank_1.sqlite",
   "Russian": "https://github.com/sieugene/yomikomi-dictionaries/blob/main/combined_terms_JMdict_russian.sqlite",
   "Dutch": "https://github.com/sieugene/yomikomi-dictionaries/blob/main/combined_terms_JMdict_dutch.sqlite",
   "Spanish": "https://github.com/sieugene/yomikomi-dictionaries/blob/main/combined_terms_JMdict_spanish.sqlite"
